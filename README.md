@@ -18,14 +18,9 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='file:///private/var/folders/vl/5vvkz9vn0wx4n8042vcvf2lc0000gp/T/30aff3e8dff565296cd518c4c67efd0f/Kapture%202023-08-10%20at%2019.13.20.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
-<!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-<!-- Recommended tools:
-[Kap](https://getkap.co/) for macOS
-[ScreenToGif](https://www.screentogif.com/) for Windows
-[peek](https://github.com/phw/peek) for Linux. -->
+GIF created with KAP!  
 
 ## App Brainstorming (Step 4)
 
