@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-# codepath-work *Color Swapper*
-Codepath Prework Project
+
 =======
 # Prework - *Color Swapper*
->>>>>>> 10659b164469add28df9f1668037b76aa1bad513
-
 Submitted by: Sofia Ward
 
 Color Changer is an app that presents the basics in swift with a functioning button that alters the apps backround color 
