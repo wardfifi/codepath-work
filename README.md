@@ -18,8 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://www.loom.com/share/f67b848606234d0d9be2164bc6cf9c5a?sid=2bcffbde-778b-49d2-99ee-dc1f43b5f0c8' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-
+[<img src='https://i.imgur.com/uhgyywF.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />](https://www.loom.com/share/f4d19e0f28ae401d80173fb8f7b7e0e6)
 GIF created with KAP!  
 
 ## App Brainstorming (Step 4)
