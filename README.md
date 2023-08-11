@@ -1,4 +1,9 @@
+<<<<<<< HEAD
+# codepath-work *Color Swapper*
+Codepath Prework Project
+=======
 # Prework - *Color Swapper*
+>>>>>>> 10659b164469add28df9f1668037b76aa1bad513
 
 Submitted by: Sofia Ward
 
@@ -28,6 +33,24 @@ GIF created with ...
 
 ## App Brainstorming (Step 4)
 
+<<<<<<< HEAD
+Example App: Pinterest
+- aesthetically pleasing
+- functionality is useful
+
+Example App: Youtube
+- curated to each user
+- organized playlist features
+
+Example App: Notes
+- Scans documents
+- artistic drawing features
+
+I think an app similar to a calendar could be more useful if it included features like menstral cycle tracking, dieting, meal prep planning, task lists with set reminder widgets on the home screen, etc.
+
+
+=======
+>>>>>>> 10659b164469add28df9f1668037b76aa1bad513
 ## Notes
 
 I had difficulty understanding the connection between the labels and buttons with actual code function, but swift is very intuitive and user friendly!
@@ -47,4 +70,9 @@ I had difficulty understanding the connection between the labels and buttons wit
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+<<<<<<< HEAD
+=======
+
+>>>>>>> 10659b164469add28df9f1668037b76aa1bad513
+
 
