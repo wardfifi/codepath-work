@@ -29,7 +29,6 @@ GIF created with ...
 
 ## App Brainstorming (Step 4)
 
-<<<<<<< HEAD
 Example App: Pinterest
 - aesthetically pleasing
 - functionality is useful
@@ -46,7 +45,6 @@ I think an app similar to a calendar could be more useful if it included feature
 
 
 =======
->>>>>>> 10659b164469add28df9f1668037b76aa1bad513
 ## Notes
 
 I had difficulty understanding the connection between the labels and buttons with actual code function, but swift is very intuitive and user friendly!
