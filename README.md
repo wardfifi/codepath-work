@@ -18,7 +18,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='file:///private/var/folders/vl/5vvkz9vn0wx4n8042vcvf2lc0000gp/T/30aff3e8dff565296cd518c4c67efd0f/Kapture%202023-08-10%20at%2019.13.20.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://www.loom.com/share/f67b848606234d0d9be2164bc6cf9c5a?sid=2bcffbde-778b-49d2-99ee-dc1f43b5f0c8' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with KAP!  
 
